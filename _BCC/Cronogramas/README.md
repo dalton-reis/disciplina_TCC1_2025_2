@@ -8,7 +8,7 @@ Dia da semana:  Segundas (18:30\~20:10)
 ## Eventos  
   
 <!--[Semana Acadêmica](https://github.com/dalton-reis/dalton-reis/blob/main/_._/semanaAcademica.md "Semana Acadêmica")  -->  
-[SEMINCO](https://github.com/dalton-reis/dalton-reis/blob/main/_._/seminco.md “SEMINCO”)  
+[SEMINCO](https://github.com/dalton-reis/dalton-reis/blob/main/_._/seminco.md "SEMINCO")  
   
 ## Observações de Entrega  
   
