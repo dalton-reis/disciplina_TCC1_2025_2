@@ -1,4 +1,4 @@
-# Cronograma:  2025-2 BCC  
+# Cronograma:  2025_2 BCC  
   
 Local:  Remoto (MS-Teams)  
 Dia da semana:  Segundas (18:30\~20:10)  
@@ -29,7 +29,8 @@ Dia da semana:  Segundas (18:30\~20:10)
   
 ## Cronograma Gantt  
   
-![Cronograma Gantt](../../svg/_BCC/Cronogramas/cronograma_BCC.svg "Cronograma Gantt")  
+<!-- ![Cronograma Gantt](../../svg/_BCC/Cronogramas/cronograma_BCC.svg "Cronograma Gantt")  -->  
+[TODO:] gerar no VSCode  "PlantUML: Generate URL for Current"  
   
 ## Fluxograma  
   
@@ -76,17 +77,23 @@ Dia da semana:  Segundas (18:30\~20:10)
   
 <!-- \[AVISO] Atendimento BCC: https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-85660899 -->  
 - Pré-Projeto - Atendimento Individual  
-![Atendimento BCC](../Cronogramas/AtendimentoBCC_A.png "Atendimento BCC")  
+| Horário | Aluno |  
+| -- | --- |  
+| 19:00~19:10 | NomeAluno |  
   
 ### Aula_07 15-09-2025  ( segunda-feira )  
   
 - Pré-Projeto - Atendimento Individual  
-![Atendimento BCC](../Cronogramas/AtendimentoBCC_B.png "Atendimento BCC")  
+| Horário | Aluno |  
+| -- | --- |  
+| 19:00~19:10 | NomeAluno |  
   
 ### Aula_08 22-09-2025  ( segunda-feira )  
   
 - Pré-Projeto - Atendimento Individual  
-![Atendimento BCC](../Cronogramas/AtendimentoBCC_C.png "Atendimento BCC")  
+| Horário | Aluno |  
+| -- | --- |  
+| -- | --- |  
   
 ### Aula_09 29-09-2025  ( segunda-feira )  
   
@@ -142,3 +149,4 @@ Evento: SEMINCO <https://github.com/dalton-reis/dalton-reis/blob/main/_._/seminc
 <!-- [ ] Aviso: DION: fechar notas <> -->  
 - Data final para devolução dos projetos pelos avaliadores:  08/12/23  
 Último dia para entregar os diários de classe 2025/2: 29/11/25 - 10/12/25  
+  
