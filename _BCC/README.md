@@ -3,11 +3,12 @@
 <!-- \[INICIO] atualizar -->
 [AVA3 BCC mat]: https://ava3.furb.br/course/view.php?id=51176&section=0 "AVA3 BCC mat"  
 [Plano Ensino AVA BCC mat]: https://ava3.furb.br/course/view.php?id=51176&section=1 "Plano Ensino AVA BCC mat"  
+[Aulas MS-Teams BCC mat]: https://teams.microsoft.com/l/meetup-join/19%3a0tBO6skqi3MZHwlcii51Ih2DP53kHlsUpApjDK_BpLI1%40thread.tacv2/1753721135636?context=%7b%22Tid%22%3a%220c2d222a-ecda-4b70-960a-acef6ced3052%22%2c%22Oid%22%3a%226af4c44a-d9df-45de-a1b2-d9ee411f495f%22%7d "Aulas MS-Teams BCC mat"  
 
 [AVA3 BCC not]: https://ava3.furb.br/course/view.php?id=51177&section=0 "AVA3 BCC not"  
 [Plano Ensino AVA BCC not]: https://ava3.furb.br/course/view.php?id=51177&section=1 "Plano Ensino AVA BCC not"  
+[Aulas MS-Teams BCC not]: https://teams.microsoft.com/l/meetup-join/19%3aTy1s6g13ZfR3DPy1U58i_JSeLgwQl5faVbtYYw-SQuI1%40thread.tacv2/1753720657901?context=%7b%22Tid%22%3a%220c2d222a-ecda-4b70-960a-acef6ced3052%22%2c%22Oid%22%3a%226af4c44a-d9df-45de-a1b2-d9ee411f495f%22%7d "Aulas MS-Teams BCC not"  
 
-[Aulas MS-Teams BCC]: https://teams.microsoft.com/l/meetup-join/19%3aUISm_ASdmfFidNDKtYW6MmoTDxeg8xpwBHgEvZ9bqC41%40thread.tacv2/1708969759016?context=%7b%22Tid%22%3a%220c2d222a-ecda-4b70-960a-acef6ced3052%22%2c%22Oid%22%3a%226af4c44a-d9df-45de-a1b2-d9ee411f495f%22%7d "Aulas MS-Teams BCC"  
 
 Olá, seja bem vindo .. 😁  
 
@@ -20,7 +21,7 @@ Este é o principal material da disciplina de Trabalho de Conclusão de Curso I.
 [Matriz curricular BCC](https://github.com/dalton-reis/dalton-reis/blob/main/_._/matriz_BCC.pdf "Matriz curricular BCC")  
 [AVA3 BCC mat] e [AVA3 BCC not]  
 [Plano Ensino AVA BCC mat] e [Plano Ensino AVA BCC not]  
-[Aulas MS-Teams BCC]  
+[Aulas MS-Teams BCC mat] e [Aulas MS-Teams BCC not]  
 
 ## Cronograma
 
