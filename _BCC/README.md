@@ -1,8 +1,12 @@
 # Disciplina de Trabalho de Conclusão de Curso I - BCC
 
 <!-- \[INICIO] atualizar -->
-[AVA3 BCC]: https://ava3.furb.br/course/view.php?id=47760&section=0 "AVA3 BCC"  
-[Plano Ensino AVA BCC]: https://ava3.furb.br/course/view.php?id=47760&section=1 "Plano Ensino AVA BCC"  
+[AVA3 BCC mat]: https://ava3.furb.br/course/view.php?id=51176&section=0 "AVA3 BCC mat"  
+[Plano Ensino AVA BCC mat]: https://ava3.furb.br/course/view.php?id=51176&section=1 "Plano Ensino AVA BCC mat"  
+
+[AVA3 BCC not]: https://ava3.furb.br/course/view.php?id=51177&section=0 "AVA3 BCC not"  
+[Plano Ensino AVA BCC not]: https://ava3.furb.br/course/view.php?id=51177&section=1 "Plano Ensino AVA BCC not"  
+
 [Aulas MS-Teams BCC]: https://teams.microsoft.com/l/meetup-join/19%3aUISm_ASdmfFidNDKtYW6MmoTDxeg8xpwBHgEvZ9bqC41%40thread.tacv2/1708969759016?context=%7b%22Tid%22%3a%220c2d222a-ecda-4b70-960a-acef6ced3052%22%2c%22Oid%22%3a%226af4c44a-d9df-45de-a1b2-d9ee411f495f%22%7d "Aulas MS-Teams BCC"  
 
 Olá, seja bem vindo .. 😁  
@@ -14,8 +18,8 @@ Este é o principal material da disciplina de Trabalho de Conclusão de Curso I.
 ## Links
 
 [Matriz curricular BCC](https://github.com/dalton-reis/dalton-reis/blob/main/_._/matriz_BCC.pdf "Matriz curricular BCC")  
-[AVA3 BCC]  
-[Plano Ensino AVA BCC]  
+[AVA3 BCC mat] e [AVA3 BCC not]  
+[Plano Ensino AVA BCC mat] e [Plano Ensino AVA BCC not]  
 [Aulas MS-Teams BCC]  
 
 ## Cronograma
