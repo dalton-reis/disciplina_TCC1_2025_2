@@ -1,4 +1,4 @@
-# Cronograma:   2025-1 BCC  
+# Cronograma:   2025-2 BCC  
   
 Local:   Remoto (MS-Teams)  
 Dia da semana:   Quintas (18:30\~20:10)  
