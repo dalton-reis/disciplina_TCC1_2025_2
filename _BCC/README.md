@@ -9,7 +9,6 @@
 [Plano Ensino AVA BCC not]: https://ava3.furb.br/course/view.php?id=51177&section=1 "Plano Ensino AVA BCC not"  
 [Aulas MS-Teams BCC not]: https://teams.microsoft.com/l/meetup-join/19%3aTy1s6g13ZfR3DPy1U58i_JSeLgwQl5faVbtYYw-SQuI1%40thread.tacv2/1753720657901?context=%7b%22Tid%22%3a%220c2d222a-ecda-4b70-960a-acef6ced3052%22%2c%22Oid%22%3a%226af4c44a-d9df-45de-a1b2-d9ee411f495f%22%7d "Aulas MS-Teams BCC not"  
 
-
 Olá, seja bem vindo .. 😁  
 
 Este é o principal material da disciplina de Trabalho de Conclusão de Curso I. O conteúdo está dividido em pastas, mas observe que novos materiais serão disponibilizados no decorrer do semestre.

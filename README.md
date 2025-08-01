@@ -2,4 +2,4 @@
 
 ## [Disciplina de Trabalho de Conclusão de Curso I - BCC](_BCC)
 
-<!-- ## [Disciplina de Trabalho de Conclusão de Curso I - SIS](_SIS) -->
+## [Disciplina de Trabalho de Conclusão de Curso I - SIS](_SIS)
