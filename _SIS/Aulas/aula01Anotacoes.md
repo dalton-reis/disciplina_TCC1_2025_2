@@ -59,8 +59,10 @@ O que deve ser feito para encaminhar o Termo de Compromisso:
 - seguir as [Observações de Entrega](../Cronogramas/README.md#observações-de-entrega "Observações de Entrega") do inicio do cronograma;  
 
 - buscar por um orientador: [lista professores do DSC](../../professoresDSC.md "lista professores do DSC");  
+- usar o modelo do [SIS_TermoCompromisso.docx](../Material/SIS_TermoCompromisso.docx "SIS_TermoCompromisso.docx");  
 - definir qual [Eixo de Formação](../Material/SIS_PPC_eixos.md) o projeto se encaixa;  
-- suar o modelo do [SIS_TermoCompromisso.docx](../Material/SIS_TermoCompromisso.docx "SIS_TermoCompromisso.docx").  
+- orientando (aluno) gera o arquivo PDF do DOCx, assina digitalmente pelo GovBr o arquivo PDF, e encaminhar por e-mail para o orientador;
+- orientador também assina pelo GovBr e encaminha por e-mail para [dalton\@furb.br](mailto:dalton@furb.br?subject=TCC1_Termo_Compromisso_Entrega).  
 
 ----------
 

@@ -28,7 +28,7 @@ Consulta a palavras em português e se são termos estrangeiros: [Termos Estrang
 
 ## Anotações PDF
 
-Se vocês receberem as revisão do pré-projeto feita pelo seu orientador, e for em um arquivo PDF, cuidem para abrir o arquivo PDF num leitor de PDF e não somente no navegador (Chrome, Safari etc.). Pois se abrirem direto no navegador vocês verão o texto "riscado" (frisado) mas não verão as anotações. Então usem um leitor de PDF instalado localmente no seu PC.  
+Se vocês receberem as revisões do pré-projeto feitas pelo seu orientador, e for em um arquivo DOCx ou PDF, cuidem para abrir o arquivo DOCx no Word Desktop, ou o arquivo PDF num leitor de PDF e não somente no navegador (Chrome, Safari etc.). Pois se abrirem direto no navegador vocês verão o texto "riscado" (frisado) mas não verão as anotações.  
 
 ## Aulas Remotas
 
