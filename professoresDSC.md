@@ -23,11 +23,11 @@
 | Marcos Rogério Cardoso           | mcardoso@furb.br  | Cardoso   |  
 | Mauricio Capobianco Lopes        | mclopes@furb.br   | Mauricio  |  
 | Miguel Alexandre Wisintainer     | maw@furb.br       | Miguel    |  
-| Patrícia Kayser Vargas Mangan    | maw@furb.br       | Patrícia  |  
-| Robson Walter de Souza           | rwsouza@furb.br   | Robson    |  
+| Patrícia Kayser Vargas Mangan    | pmangan@furb.br   | Patrícia  |  
 | Simone Erbs da Costa             | secosta@furb.br   | Simone    |  
 
 
+<!-- | Robson Walter de Souza           | rwsouza@furb.br   | Robson    |   -->
 <!-- | Marcos Rodrigo Momo              | momo@furb.br      | Momo      |   -->
 <!-- Jorge Adriano dos Santos [jorgeadriano@furb.br](mailto:jorgeadriano@furb.br) -->  
 <!-- Nodji Vasconcelos Ferreira Junior [nvferreira@furb.br](mailto:nvferreira@furb.br) -->  
