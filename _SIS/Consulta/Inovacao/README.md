@@ -1,0 +1,1 @@
+A palavra inovação está presente no dia a dia da sociedade e possui várias interpretações, mas aquela que é mais adotada está associada a compreender um processo, pensar como melhorá-lo, implementar a solução na prática e avaliar os resultados 
