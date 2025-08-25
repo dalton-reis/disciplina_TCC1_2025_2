@@ -53,9 +53,7 @@ Material da biblioteca da FURB: <https://www.furb.br/web/5265/servicos/bibliotec
 
 - [Como fazer Ilustrações e Tabela - BC](../Consulta/FurbBc/IlustracoesTabelas.pdf)  
 - [Como fazer Referências - BC](../Consulta/FurbBc/Referencias.pdf)  
-- [Como fazer Referências](../Consulta/FurbBc/_ComoFazer_ReferenciasBibliograficas.pdf)  
 - [Como fazer Citações - BC](../Consulta/FurbBc/Citacoes.pdf)  
-- [Como fazer Citações](../Consulta/FurbBc/_ComoFazer_Citacoes.pdf)  
 
 Para mais informações consulte: <https://sway.office.com/K8QaPPXHkTM8r3gW?ref=Link.>  
 
