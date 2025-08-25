@@ -81,6 +81,7 @@ Com o Mendeley você organiza suas leituras (tanto PDFs quanto materiais impress
 
 <!-- mostrar como usar o Zotero principalmente como fazer uma importação de uma referência pesquisada -->
 O Zotero é um programa similar ao Mendeley, com a diferença de ser disponibilizado também em português. Faça o download no [link](https://www.zotero.org/).  
+Possuí integração com o navegadores e editores de texto (Word, Latex etc.).  
 
 <!--
 <iframe width="760px" height="500px" src="https://sway.office.com/s/K8QaPPXHkTM8r3gW/embed" frameborder="0" marginheight="0" marginwidth="0" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: none; max-width: 100%; max-height: 100vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>
