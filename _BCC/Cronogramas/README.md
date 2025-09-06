@@ -76,6 +76,7 @@ Dia da semana:  Segundas (18:30\~20:10)
   
 <!-- \[AVISO] Atendimento BCC: https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-85660899 -->  
 - Pré-Projeto - Atendimento Individual  
+
 | Horário | Aluno |  
 | -- | --- |  
 | 19:00~19:10 | Eduardo Silverio Lyra |  
@@ -91,6 +92,7 @@ Dia da semana:  Segundas (18:30\~20:10)
 ### Aula_07 15-09-2025  ( segunda-feira )  
   
 - Pré-Projeto - Atendimento Individual  
+
 | Horário | Aluno |  
 | -- | --- |  
 | 19:00~19:10 | Lucas Jansen Gorges |  
@@ -106,6 +108,7 @@ Dia da semana:  Segundas (18:30\~20:10)
 ### Aula_08 22-09-2025  ( segunda-feira )  
   
 - Pré-Projeto - Atendimento Individual  
+
 | Horário | Aluno |  
 | 19:00~19:10 | Pedro Gabriel Appel |  
 | 19:10~19:20 | Thomas Anderson Rodrigues |  
