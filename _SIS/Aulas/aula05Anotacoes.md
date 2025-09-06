@@ -98,6 +98,8 @@ Possuí integração com o navegadores e editores de texto (Word, Latex etc.).
 - Sociedade Brasileira de Computação (SBC), a SBC-OpenLib (SOL) (<https://sol.sbc.org.br/index.php/indice>)  
 - Sugestões do ChatGPT
 
+[### Mecanismos de Busca Acadêmicos](../../MBA.md)
+
 ## Dicas do uso do Editor MS-Word
 
 - Formatação: estilos, inserir legenda e referência cruzada  
