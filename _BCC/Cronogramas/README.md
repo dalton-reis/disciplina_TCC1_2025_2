@@ -110,6 +110,7 @@ Dia da semana:  Segundas (18:30\~20:10)
 - Pré-Projeto - Atendimento Individual  
 
 | Horário | Aluno |  
+| -- | --- |  
 | 19:00~19:10 | Pedro Gabriel Appel |  
 | 19:10~19:20 | Thomas Anderson Rodrigues |  
 | 19:20~19:30 | Daniel Kruger |  
