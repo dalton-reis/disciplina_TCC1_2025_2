@@ -78,21 +78,44 @@ Dia da semana:  Segundas (18:30\~20:10)
 - Pré-Projeto - Atendimento Individual  
 | Horário | Aluno |  
 | -- | --- |  
-| 19:00~19:10 | NomeAluno |  
+| 19:00~19:10 | Eduardo Silverio Lyra |  
+| 19:10~19:20 | Ivo Paulo Puehler Júnior |  
+| 19:20~19:30 | Luís Felipe de Castilho |  
+| 19:30~19:40 | Martin Lange de Assis |  
+| 19:40~19:50 | Beatriz Conrat Muller da Silva |  
+| 19:50~20:00 | Felipe Melio Tomelin |  
+| 20:00~20:10 | Pedro Antonio de Faria Garcia |  
+| 20:10~20:20 | Mateus Henrique Maas |  
+| 20:20~20:30 | Rafael Barbosa Kretzer |  
   
 ### Aula_07 15-09-2025  ( segunda-feira )  
   
 - Pré-Projeto - Atendimento Individual  
 | Horário | Aluno |  
 | -- | --- |  
-| 19:00~19:10 | NomeAluno |  
+| 19:00~19:10 | Lucas Jansen Gorges |  
+| 19:10~19:20 | Felipe Babel |  
+| 19:20~19:30 | Antônio José Brogni |  
+| 19:30~19:40 | Luiz Henrique Martendal |  
+| 19:40~19:50 | Rodrigo Heinzen de Moraes |  
+| 19:50~20:00 | Vinícius Vanelli Silvestre Silva |  
+| 20:00~20:10 | Gabriel de Souza Klauck |  
+| 20:10~20:20 | Rubens Mette Junior |  
+| 20:20~20:30 | Gabriel Eduardo Pereira |  
   
 ### Aula_08 22-09-2025  ( segunda-feira )  
   
 - Pré-Projeto - Atendimento Individual  
 | Horário | Aluno |  
-| -- | --- |  
-| -- | --- |  
+| 19:00~19:10 | Pedro Gabriel Appel |  
+| 19:10~19:20 | Thomas Anderson Rodrigues |  
+| 19:20~19:30 | Daniel Kruger |  
+| 19:30~19:40 | Ari Elias da Silva Júnior |  
+| 19:40~19:50 | Eduardo Augusto Reinert |  
+| 19:50~20:00 | Luigi Garcia Marchetti |  
+| 20:00~20:10 | Gabriel Ramos dos Santos |  
+| 20:10~20:20 | Alani Rigotti de Oliveira |  
+| 20:20~20:30 | Caike Machado Batista Costa |  
   
 ### Aula_09 29-09-2025  ( segunda-feira )  
   
