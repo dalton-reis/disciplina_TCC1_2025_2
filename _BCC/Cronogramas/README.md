@@ -83,7 +83,7 @@ Dia da semana:  Segundas (18:30\~20:10)
 | 19:10~19:20 | Ivo Paulo Puehler Júnior |  
 | 19:20~19:30 | Luís Felipe de Castilho |  
 | 19:30~19:40 | Martin Lange de Assis |  
-| 19:40~19:50 | Beatriz Conrat Muller da Silva |  
+| 19:40~19:50 | .. NÃO .. Beatriz Conrat Muller da Silva |  
 | 19:50~20:00 | Felipe Melio Tomelin |  
 | 20:00~20:10 | Pedro Antonio de Faria Garcia |  
 | 20:10~20:20 | Mateus Henrique Maas |  
