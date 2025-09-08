@@ -79,7 +79,7 @@ Dia da semana:  Segundas (18:30\~20:10)
 
 | Horário | Aluno |  
 | -- | --- |  
-| 19:00~19:10 | Eduardo Silverio Lyra |  
+| 19:00~19:10 | Luiz Henrique Martendal |  
 | 19:10~19:20 | Ivo Paulo Puehler Júnior |  
 | 19:20~19:30 | Luís Felipe de Castilho |  
 | 19:30~19:40 | Martin Lange de Assis |  
@@ -98,7 +98,7 @@ Dia da semana:  Segundas (18:30\~20:10)
 | 19:00~19:10 | Lucas Jansen Gorges |  
 | 19:10~19:20 | Felipe Babel |  
 | 19:20~19:30 | Antônio José Brogni |  
-| 19:30~19:40 | Luiz Henrique Martendal |  
+| 19:30~19:40 | Eduardo Silverio Lyra |  
 | 19:40~19:50 | Rodrigo Heinzen de Moraes |  
 | 19:50~20:00 | Vinícius Vanelli Silvestre Silva |  
 | 20:00~20:10 | Gabriel de Souza Klauck |  
