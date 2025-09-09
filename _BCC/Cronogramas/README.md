@@ -17,7 +17,7 @@ Dia da semana:  Segundas (18:30\~20:10)
 - encaminhamentos que não forem feitos (para o Pré-Projeto e Projeto) em até no máximo 3 dias após o prazo estabelecido implica na reprovação do estudante na disciplina;  
 - todos os arquivos encaminhados devem ser em formato "docx".  
   
-**ATENÇÃO**: sempre antes de encaminhar a entrega gere do arquivo "docx" um arquivo em "pdf" para verificar senão ocorreu nenhum erro.  
+> ⚠️ **Atenção**: sempre antes de encaminhar a entrega gere do arquivo "docx" um arquivo em "pdf" para verificar senão ocorreu nenhum erro.  
   
 ## Cronograma Resumido  
   
@@ -126,7 +126,7 @@ Evento: SEMINCO <https://github.com/dalton-reis/dalton-reis/blob/main/_._/seminc
   
 ### Aula_10 06-10-2025  ( segunda-feira )  
   
-> ⚠️ **Atenção**: Entrega do Pré-Projeto (BCC)**  
+> ⚠️ **Atenção**: Entrega do Pré-Projeto (BCC)  
   
 - [aula09AnotacoesBCC](../Aulas/aula09AnotacoesBCC.md "aula09AnotacoesBCC")  
   
@@ -161,7 +161,7 @@ Evento: SEMINCO <https://github.com/dalton-reis/dalton-reis/blob/main/_._/seminc
   
 ### Aula_17 24-11-2025  ( segunda-feira )  
   
-> ⚠️ **Atenção**: Entrega do Projeto**  
+> ⚠️ **Atenção**: Entrega do Projeto  
   
 - Avaliação dos Projetos (banca)  
   
