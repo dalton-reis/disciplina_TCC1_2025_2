@@ -87,7 +87,7 @@ Dia da semana:  Segundas (18:30\~20:10)
 | 19:50~20:00 | Felipe Melio Tomelin |  
 | 20:00~20:10 | Pedro Antonio de Faria Garcia |  
 | 20:10~20:20 | Mateus Henrique Maas |  
-| 20:20~20:30 | Rafael Barbosa Kretzer |  
+| 20:20~20:30 | .. NÃO .. Rafael Barbosa Kretzer |  
   
 ### Aula_07 15-09-2025  ( segunda-feira )  
   
