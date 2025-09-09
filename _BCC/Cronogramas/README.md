@@ -49,10 +49,9 @@ Dia da semana:  Segundas (18:30\~20:10)
 - [aula02Slides](../Aulas/aula02Slides.pdf "aula02Slides")  
   
 ### Aula_03 18-08-2025  ( segunda-feira )  
-  
-> [!CAUTION]  
-> **Entrega do Termo de Compromisso de TCC**  
-  
+
+> ⚠️ **Atenção**: Entrega do Termo de Compromisso de TCC
+
 - [aula03Anotacoes](../Aulas/aula03Anotacoes.md "aula03Anotacoes")  
 - [aula03Slides](../Aulas/aula03Slides.pdf "aula03Slides")  
 - Pré-Projeto - Formulação  
@@ -127,8 +126,7 @@ Evento: SEMINCO <https://github.com/dalton-reis/dalton-reis/blob/main/_._/seminc
   
 ### Aula_10 06-10-2025  ( segunda-feira )  
   
-> [!CAUTION]  
-> **Entrega do Pré-Projeto (BCC)**  
+> ⚠️ **Atenção**: Entrega do Pré-Projeto (BCC)**  
   
 - [aula09AnotacoesBCC](../Aulas/aula09AnotacoesBCC.md "aula09AnotacoesBCC")  
   
@@ -163,8 +161,7 @@ Evento: SEMINCO <https://github.com/dalton-reis/dalton-reis/blob/main/_._/seminc
   
 ### Aula_17 24-11-2025  ( segunda-feira )  
   
-> [!CAUTION]  
-> **Entrega do Projeto**  
+> ⚠️ **Atenção**: Entrega do Projeto**  
   
 - Avaliação dos Projetos (banca)  
   
