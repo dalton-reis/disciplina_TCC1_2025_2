@@ -123,6 +123,7 @@ Dia da semana:  Segundas (18:30\~20:10)
 ### Aula_09 29-09-2025  ( segunda-feira )  
   
 Evento: SEMINCO <https://github.com/dalton-reis/dalton-reis/blob/main/_._/seminco.md>  
+**não tem aula**
   
 ### Aula_10 06-10-2025  ( segunda-feira )  
   
