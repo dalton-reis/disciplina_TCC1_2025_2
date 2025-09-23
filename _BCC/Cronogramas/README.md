@@ -79,10 +79,10 @@ Dia da semana:  Segundas (18:30\~20:10)
 | Horário | Aluno |  
 | -- | --- |  
 | 19:00~19:10 | Luiz Henrique Martendal |  
-| 19:10~19:20 | Alani Rigotti de Oliveira |  
+| 19:10~19:20 | Alani Rigotti de Oliveira ⚠️ Termo |  
 | 19:20~19:30 | Luís Felipe de Castilho |  
 | 19:30~19:40 | Martin Lange de Assis |  
-| 19:40~19:50 | Beatriz Conrat Muller da Silva |  
+| 19:40~19:50 | Beatriz Conrat Muller da Silva - remarquei |  
 | 19:50~20:00 | Felipe Melio Tomelin |  
 | 20:00~20:10 | Pedro Antonio de Faria Garcia |  
 | 20:10~20:20 | Mateus Henrique Maas |  
@@ -116,9 +116,10 @@ Dia da semana:  Segundas (18:30\~20:10)
 | 19:30~19:40 | Ari Elias da Silva Júnior |  
 | 19:40~19:50 | Eduardo Augusto Reinert |  
 | 19:50~20:00 | Luigi Garcia Marchetti |  
-| 20:00~20:10 | Gabriel Ramos dos Santos |  
+| 20:00~20:10 | Gabriel Ramos dos Santos ⚠️ Termo |  
 | 20:10~20:20 | Ivo Paulo Puehler Júnior |  
-| 20:20~20:30 | Caike Machado Batista Costa |  
+| 20:20~20:30 | Caike Machado Batista Costa ⚠️ Termo |  
+| 20:30~20:40 | Beatriz Conrat Muller da Silva |  
   
 ### Aula_09 29-09-2025  ( segunda-feira )  
   
