@@ -16,6 +16,8 @@ E no Art. 26.:
 
 Em resumo, define que é obrigatório a defesa na banca de qualificação e que vocês tem no máximo 15 (quinze) minutos para exposição da apresentação.  
 
+A defesa é mediada pelo MS-Teams, em uma reunião agendada pelo orientador com o aluno (orientando), professor especialista (revisor) e professor de TCC1. Durante todo o processo de defesa, o aluno (orientando) deve manter a câmera "aberta”, mostrando o seu rosto.
+
 ## Dicas
 
 Então peço que preparem os slides usando somente o conteúdo do pré-projeto, façam algumas prévias e marquem o tempo, e caso ultrapassem o tempo máximo permitido, reorganizem o conteúdo dos slides para atender o limite exigido.  
