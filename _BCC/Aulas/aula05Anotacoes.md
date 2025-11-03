@@ -69,6 +69,10 @@ De preferência atendimento presencial, mas na impossibilidade pode ser pelo MS-
 
 - sites para formatar [More-UFSC](https://more.ufsc.br/inicio "More-UFSC"), [Mendeley](https://www.mendeley.com "Mendeley"), [ResearchGate](https://www.researchgate.net "ResearchGate"), [Research Rabbit](https://researchrabbitapp.com "Research Rabbit"), [LitMaps](https://www.litmaps.com "LitMaps"), [Zotero](https://www.zotero.org "Zotero") etc.  
 
+### UDESC
+
+[Manual utilizado no UDESC](../Consulta/UDESC/Manual_atualizado_junho_2025_17507115200783_12510.pdf)
+
 ### More-UFSC
 
 O [More-UFSC](https://more.ufsc.br/inicio "More-UFSC") permite que você utilize ele sem fazer um cadastro de acesso, mas ao se cadastrar permite salvar algumas referências já pesquisadas. Com o More é possível usar formulários que ao serem preenchidos corretamente se gere a referência bibliográfica e citação seguindo as normas da ABNT. Mas é necessário primeiro identificar qual o tipo de material se tem tem para poder escolher o "formulário" correto. E, também se deve ter muito cuidado de preencher corretamente os campos do formulário para não se gerar erros.  

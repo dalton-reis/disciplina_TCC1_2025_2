@@ -1,32 +1,31 @@
-@startgantt cronograma_BCC
+@startgantt cronograma_SIS
 
 /'TODO: tentar usar variáveis do sistema: https://blog.jdriven.com/2017/01/plantuml-pleasantness-using-current-date/  '/
 /'atualizar'/
-
-!$dataInicio = "	2025-08-04	"
-!$dataFim  = "	2025-12-01	"
+!$dataInicio = "	2025-02-20	"
+!$dataFim  = "	2025-06-19	"
 !$Aula01 = $dataInicio		
-!$Aula02 = "	2025-08-11	"
-!$Aula03 = "	2025-08-18	"
-!$Aula04 = "	2025-08-25	"
-!$Aula05 = "	2025-09-01	"
-!$Aula06 = "	2025-09-08	"
-!$Aula07 = "	2025-09-15	"
-!$Aula08 = "	2025-09-22	"
-!$Aula09 = "	2025-09-29	"
-!$Aula10 = "	2025-10-06	"
-!$Aula11 = "	2025-10-13	"
-!$Aula12 = "	2025-10-20	"
-!$Aula13 = "	2025-10-27	"
-!$Aula14 = "	2025-11-03	"
-!$Aula15 = "	2025-11-10	"
-!$Aula16 = "	2025-11-17	"
-!$Aula17 = "	2025-11-24	"
-!$Aula18 = "	2025-12-01	"
+!$Aula02 = "	2025-02-27	"
+!$Aula03 = "	2025-03-06	"
+!$Aula04 = "	2025-03-13	"
+!$Aula05 = "	2025-03-20	"
+!$Aula06 = "	2025-03-27	"
+!$Aula07 = "	2025-04-03	"
+!$Aula08 = "	2025-04-10	"
+!$Aula09 = "	2025-04-17	"
+!$Aula10 = "	2025-04-24	"
+!$Aula11 = "	2025-05-01	"
+!$Aula12 = "	2025-05-08	"
+!$Aula13 = "	2025-05-15	"
+!$Aula14 = "	2025-05-22	"
+!$Aula15 = "	2025-05-29	"
+!$Aula16 = "	2025-06-05	"
+!$Aula17 = "	2025-06-12	"
+!$Aula18 = "	2025-06-19	"
 !$Aula18 = $dataFim		
-
 !$dataAtual  = $Aula14
 /'atualizar'/
+
 
 ganttscale weekly
 
@@ -47,30 +46,30 @@ Project starts $dataInicio
 note bottom
 Entrega: Termo de Compromisso
 end note
-[Pré-projeto (BCC)] starts at [Termo]'s end
-[Pré-projeto (BCC)] ends $Aula09
+[Pré-projeto (SIS)] starts at [Termo]'s end
+[Pré-projeto (SIS)] ends $Aula10
 [Aula04] starts $Aula04 and ends $Aula04
 [Aula05] starts $Aula05 and ends $Aula05
 [Aula06] starts $Aula06 and ends $Aula06
 [Aula07] starts $Aula07 and ends $Aula07
 [Aula08] starts $Aula08 and ends $Aula08
 [Aula09] starts $Aula09 and ends $Aula09
-note bottom
-Entrega: Pré-projeto (BCC) 
-end note
 [Aula10] starts $Aula10 and ends $Aula10
-[Banca] starts at [Pré-projeto (BCC)]'s end with green dashed link
-[Banca] ends $Aula13
-[Aula11] starts $Aula11 and ends $Aula11
 note bottom
-Bancas (BCC) 
+Entrega: Pré-projeto (SIS) 
+end note
+[Aula11] starts $Aula11 and ends $Aula11
+[Avaliacao] starts at [Pré-projeto (SIS)]'s end with green dashed link
+[Avaliacao] ends $Aula13
+note bottom
+Avaliação (SIS) 
 end note
 [Aula12] starts $Aula12 and ends $Aula12
 note bottom
-Bancas (BCC) 
+Avaliação (SIS) 
 end note
 [Aula13] starts $Aula13 and ends $Aula13
-[Projeto] starts at [Banca]'s end with cyan dashed link
+[Projeto] starts at [Avaliacao]'s end with cyan dashed link
 [Projeto] ends $Aula17
 [Aula14] starts $Aula14 and ends $Aula14
 [Aula15] starts $Aula15 and ends $Aula15
