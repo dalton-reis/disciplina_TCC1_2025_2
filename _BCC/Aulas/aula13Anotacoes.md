@@ -18,6 +18,11 @@ Próximos passos:
   - quadro no final  
 - Aluno recebe mensagem com TODO o material e tabela de avaliação  
 
+Final do semestre:  
+
+- ![BCC_Planilha_FichaTCC1](../Consulta/Fichas/BCC_Planilha_FichaTCC1.png)  
+- [9_AvaliacaoFinal](../Consulta/Fichas/9_AvaliacaoFinal.pdf)  
+
 ----------
 
 ## ⏭ [Voltar](../README.md "Voltar")  
